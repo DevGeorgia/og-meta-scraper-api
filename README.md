@@ -1,4 +1,4 @@
-# og-metaResponse-scraper-api
+# og-meta-scraper-api
 
 This api has for objective to scrap some urls in order to get their metadatas infos.
 
